@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nitish Jadhav 👋
 
-<!--
-**nitish-cloud-engineer/nitish-cloud-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer with 2+ years of experience managing AWS infrastructure.
 
-Here are some ideas to get you started:
+## ☁️ Cloud Skills
+AWS (EC2, VPC, S3, IAM, ALB, Route53, CloudWatch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ DevOps
+Jenkins  
+GitHub Actions  
+AWS CodePipeline
+
+## 🐧 Systems
+Linux Administration  
+Bash scripting
+
+## 📦 Containers
+Docker (Basic)
+
+## 📊 Monitoring
+Amazon CloudWatch
+
+## 🚀 Currently Learning
+Cloud Automation  
+Infrastructure as Code  
+DevOps Best Practices
